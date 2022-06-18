@@ -1,0 +1,160 @@
+.background {
+    background-image: url('https://res.cloudinary.com/dileepgorantala/image/upload/v1654229732/SRA01039_nhnpnk.jpg');
+    height: 140vh;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.title {
+    background-size: cover;
+    height: 20vh;
+}
+
+.heading {
+    color: rgb(168, 243, 5);
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-decoration: blink;
+    text-shadow: 6px 4px 8px blue;
+    font-size: 35px;
+}
+
+.name {
+    margin: 10px;
+}
+
+.image-card {
+    border-radius: 10px;
+    background-color: #aef5e9;
+    padding: 13px;
+    width: 90px;
+    margin: 10px;
+}
+
+.img {
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+}
+
+.coro {
+    height: 280px;
+    width: 280px;
+    margin: 10px;
+}
+
+.botton {
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+}
+
+.botton2 {
+    padding: 10px;
+    margin: 10px;
+    height: 70px;
+    width: 160px;
+}
+
+.bck {
+    background-image: url('https://img.freepik.com/free-vector/neon-lights-frame-design_52683-72017.jpg?t=st=1653822270~exp=1653822870~hmac=6e6b67a0d6ad14dbc0dc2d75d6ee9f3d1699449192da3a6b9327a5e3f887890e&w=1480');
+    height: 120vh;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.main-tt {
+    color: lightgreen;
+    text-decoration: underline;
+    font-family: "Lobster";
+    text-align: center;
+    text-shadow: 6px 4px 8px rgb(255, 0, 132);
+    font-size: 60px;
+    padding: 20px;
+}
+
+.bdy-png {
+    height: 50px;
+    width: 50px;
+    margin: 40px;
+}
+
+.bdy-image {
+    height: 110px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.bck1 {
+    background-image: url('https://img.freepik.com/free-vector/neon-lights-frame-design_52683-72017.jpg?t=st=1653822270~exp=1653822870~hmac=6e6b67a0d6ad14dbc0dc2d75d6ee9f3d1699449192da3a6b9327a5e3f887890e&w=1480');
+    height: 120vh;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.main-tt1 {
+    color: lightgreen;
+    text-decoration: underline;
+    font-family: "Lobster";
+    text-align: center;
+    text-shadow: 6px 4px 8px rgb(255, 0, 132);
+    font-size: 60px;
+    padding: 20px;
+}
+
+.bdy-png1 {
+    height: 50px;
+    width: 50px;
+    margin: 40px;
+}
+
+.bdy-image1 {
+    height: 110px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.bck2 {
+    background-image: url('https://img.freepik.com/free-vector/neon-lights-frame-design_52683-72017.jpg?t=st=1653822270~exp=1653822870~hmac=6e6b67a0d6ad14dbc0dc2d75d6ee9f3d1699449192da3a6b9327a5e3f887890e&w=1480');
+    height: 120vh;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.main-tt2 {
+    color: lightgreen;
+    text-decoration: underline;
+    font-family: "Lobster";
+    text-align: center;
+    text-shadow: 6px 4px 8px rgb(255, 0, 132);
+    font-size: 60px;
+    padding: 20px;
+}
+
+.bdy-png2 {
+    height: 50px;
+    width: 50px;
+    margin: 40px;
+}
+
+.bdy-image2 {
+    height: 110px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.bn {
+    margin: 10px;
+}
+
+.lot {
+    font-family: "Popfine";
+    text-shadow: 6px 4px 8px rgb(255, 0, 132);
+    padding: 80px;
+    font-size: 90px;
+    margin: 100px;
+    color: white;
+    background-color: blue;
+}
